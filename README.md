@@ -8,7 +8,7 @@
 
 This is my HTML project for learning purpose.
 
-Web page published at: [sgrazys.github.io/cv/](sgrazys.github.io/cv/) 
+Web page published at: [sgrazys.github.io/cv/](https://sgrazys.github.io/cv/) 
 
 ## 🎯 Project features/goals
 
